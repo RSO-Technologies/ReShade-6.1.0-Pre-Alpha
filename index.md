@@ -24,6 +24,6 @@ Pre-Alpha Version 6.1.0 was released on January 15th 2023.
 **Use preset files (*.ini) that can be created from ReShade's in-game user interface to share your configurations.
 Do NOT share the binaries or shader files. Link users to this website instead.**
 
-<kbd> <br> Title <br> </kbd>[https://github.com/MarkedDown/Buttons/blob/main/Types/KBD.md]
+[<kbd> <br> Download <br> </kbd>](https://github.com/MarkedDown/Buttons/blob/main/Types/KBD.md)
 
 *Digital Signature Thumbprint: 5896E526457FB832454465745656F50ACD47C49F*

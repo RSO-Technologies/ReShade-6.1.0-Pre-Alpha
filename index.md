@@ -5,8 +5,8 @@ ReShade is a generic post-processing injector for games and video software devel
 
 The possibilities are endless! Add advanced depth-edge-detection-driven SMAA antialiasing, screen space ambient occlusion, depth of field effects, chromatic aberration, dynamic film grain, automatic saturation and color correction, cross processing, multi-pass blurring ... you name it.
 
-### ReShade supports all of Direct3D 9, Direct3D 10, Direct3D 11, Direct3D 12, OpenGL and Vulkan.
-### A computer with Windows 7 SP1, 8.1, 10 or 11 and .NET Framework 4.6.2 or higher installed is required.
+##### ReShade supports all of Direct3D 9, Direct3D 10, Direct3D 11, Direct3D 12, OpenGL and Vulkan.
+##### A computer with Windows 7 SP1, 8.1, 10 or 11 and .NET Framework 4.6.2 or higher installed is required.
 
 ReShade features its very **own shading language** and **compiler**, called ReShade FX. The syntax is based on HLSL, adding useful features designed for developing post-processing effects: Define and use textures right from the shader code, render to them, change renderstates, retrieve color and depth data, request custom values like timers or key states, ...
 

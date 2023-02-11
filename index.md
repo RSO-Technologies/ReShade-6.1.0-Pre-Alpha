@@ -24,6 +24,6 @@ Pre-Alpha Version 6.1.0 was released on January 15th 2023.
 **Use preset files (*.ini) that can be created from ReShade's in-game user interface to share your configurations.
 Do NOT share the binaries or shader files. Link users to this website instead.**
 
-[<kbd> <br> Download Pre-Alpha 6.1.0 <br> </kbd>](https://cdn.discordapp.com/attachments/881973200538447933/1071883485809221703/ReShade_Setup_6.1.0_.exe)
+[<kbd> <br> Download Pre-Alpha 6.1.0 <br> </kbd>](https://cdn.discordapp.com/attachments/881973200538447933/1073943976161321020/ReShade_Setup_6.1.0.exe)
 
 *Digital Signature Thumbprint: 5896E526457FB832454465745656F50ACD47C49F*
